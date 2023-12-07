@@ -1,0 +1,4 @@
+full name: Ochirova Ilyana Yurievna
+age: 27
+pets: 2
+future salary: 1500
