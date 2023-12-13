@@ -1,0 +1,6 @@
+skill1: Terminal linux
+skill2: Github
+skill3: Client Server
+skill4: Sql
+skill5: Postman
+skill5: Mobile testing
