@@ -1,0 +1,5 @@
+Checklist-structure-registration
+1. email
+2. social network
+3. field validation 
+
